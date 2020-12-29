@@ -26,5 +26,7 @@ namespace EasyUI.Controllers
 
             return View();
         }
+
+        ////SetThemes
     }
 }
